@@ -113,4 +113,5 @@ git clone-account1:your_username/your_repository.git
 ```
 <br ><br ><br ><br >
 
-Reference : [link ke reference](https://www.ayyaztech.com/blog/how-to-use-multiple-github-accounts-on-the-same-machine)
+
+Reference : https://www.ayyaztech.com/blog/how-to-use-multiple-github-accounts-on-the-same-machine
