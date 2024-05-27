@@ -42,7 +42,7 @@ Host github.com-Account1
   User git
   IdentityFile ~/.ssh/id_ed25519_account1
 ```
-<br ><br >
+<br >
 
 ### Configure your second GitHub account
 To configure your second GitHub account, add the following lines to the same config file, replacing "Account2" with a descriptive name for your second account and updating the file path to match the second SSH key:
@@ -52,7 +52,7 @@ Host github.com-Account2
   User git
   IdentityFile ~/.ssh/id_ed25519_account2
 ```
-<br ><br >
+<br >
 
 ### Test the configuration
 To test your configuration, run the following command for each account, replacing "github.com-Account1" with the correct Host value from your config file:
@@ -69,7 +69,7 @@ To clone a repository from one of your GitHub accounts, use the following comman
 ```
 git clone git@github.com-Account1:your_username/your_repository.git
 ```
-<br ><br >
+<br >
 
 ### Pushing changes to a repository
 To push changes to a repository, navigate to the local repository folder and execute the following commands:
@@ -93,7 +93,6 @@ If you encounter issues when working with multiple GitHub accounts, double-check
 
 ## Best Practices for Managing Multiple GitHub Accounts
 To make the most of your multiple GitHub accounts and streamline your workflow, follow these best practices:
-<br >
 ### Organize your repositories
 Create a folder structure on your local machine that separates your repositories by account. This will help you keep track of which repositories belong to which account and minimize confusion.
 <br ><br >
