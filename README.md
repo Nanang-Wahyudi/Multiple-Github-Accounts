@@ -1,7 +1,7 @@
 # Multiple-Github-Accounts
 How to Use Multiple GitHub Accounts on the Same Machine
 
-
+<br ><br >
 ## Introduction
 Working with multiple GitHub accounts on the same machine can be challenging, especially when it comes to managing separate SSH keys and repositories. In this article, we will guide you through the process of setting up and using multiple GitHub accounts on your computer, making your development workflow more efficient and organized.
 <br ><br >
@@ -111,6 +111,6 @@ Now, when you want to clone a repository from your first account, you can use th
 ```
 git clone-account1:your_username/your_repository.git
 ```
-
+<br ><br ><br ><br >
 
 Reference : [link ke reference](https://www.ayyaztech.com/blog/how-to-use-multiple-github-accounts-on-the-same-machine)
